@@ -1,2 +1,2 @@
 #  sa-immigrations-to-Canada
- Projeto pessoal usando Python e suas bibliotecas pandas e matplotlib para extrair dados de um arquivo CSV que tem os números de imigração para o Canadá dos anos de 1980 a 2013
+Personal project using Python and its pandas and matplotlib libraries to extract data from a CSV file that has immigration numbers for Canada from the years 1980 to 2013
